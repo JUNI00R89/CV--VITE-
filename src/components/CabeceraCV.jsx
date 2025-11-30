@@ -1,9 +1,8 @@
 export default function CabeceraCV() {
   return (
     <header>
-      <h1>FRANK JUNIOR BENITEZ MOSQUERA</h1>
-      <h2>Desarrollador Full Stack </h2>
+      <h1>Nombre del Aprendiz</h1>
+      <h2>Desarrollador UI Frontendd</h2>
     </header>
   );
 }
-
