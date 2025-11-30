@@ -1,16 +1,48 @@
-# React + Vite
+Cómo ejecutar el proyecto
+Dependencias de instalación: npm install
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ejecutar: npm run dev
 
-Currently, two official plugins are available:
+📄 Hoja de Vida en React – FRANK JUUNIOR BENITEZ 
+Proyecto desarrollado como parte de la actividad GA1-220501096-03-AA1-EV06-Construcción Componentes dinámicos en React – Renderizado condicional y renderizado de listas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto implementa una Hoja de Vida modular construida con React + Vite , donde cada sección está separada en componentes individuales, facilitando la reutilización, el mantenimiento y la escalabilidad.
 
-## React Compiler
+Actividades Asociadas
+Este proyecto corresponde a las actividades:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+GA1-220501096-03-AA1-EV06 – Construcción de componentes dinámicos en React
 
-## Expanding the ESLint configuration
+GA1-220501096-03-AA1-EV07 – Reutilización de componentes en React (Props y desestructuración)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Descripción del proyecto
+Aplicación tipo Hoja de Vida modular, construida con React + Vite, organizada en componentes reutilizables para facilitar:
+
+✔ Reutilización ✔ Mantenimiento ✔ Escalabilidad ✔ Separación lógica por secciones
+
+La versión actual del proyecto implementa conceptos como:
+
+Renderizado condicional
+
+Renderizado de listas mediante .map()
+
+Props + desestructuración
+
+Organización modular de carpetas.
+
+Buenas prácticas de Git y GitHub
+
+Componentes incluidos
+CabeceraCV
+
+Perfil
+
+Experiencia (dinámico)
+
+Educación (dinámico)
+
+StackTecnologías (dinámico con estilos condicionales)
+
+Vista previa del proyecto 
+
+![alt text](image-1.png)
