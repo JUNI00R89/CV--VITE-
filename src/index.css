@@ -1,0 +1,66 @@
+/* === Estilos globales === */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+color: #ffffff;
+}
+
+/* Contenedor principal */
+.cv-container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: rgb(0, 0, 0);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Cabecera */
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  margin: 0;
+  color: #ffffff;
+}
+
+header h2 {
+  font-size: 1.2rem;
+  margin: 5px 0 0 0;
+  color: #777;
+}
+
+/* Títulos de sección */
+section h3 {
+  font-size: 1.4rem;
+  border-left: 5px solid #00fa21;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+/* Contenido */
+section p, section ul {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Espaciado entre secciones */
+section {
+  margin-bottom: 30px;
+}
+
