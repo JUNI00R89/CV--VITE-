@@ -4,10 +4,11 @@ export default function Experiencia() {
       <h3>Experiencia Profesional</h3>
       <ul>
         <li>
-          <strong>Desarrollador Full Stack</strong> 
+          <strong>Desarrollador Full Stackk</strong> 
         </li>
      
       </ul>
     </section>
   );
 }
+
