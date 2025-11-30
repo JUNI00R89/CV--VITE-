@@ -6,7 +6,7 @@ export default function Habilidades({ habilidades }) {
     return (
       <section>
         <h3>Habilidades</h3>
-        <p>No se han definido habilidades.</p>
+        <p>No se han definido habilidadess.</p>
         <hr />
       </section>
     );

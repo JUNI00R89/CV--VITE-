@@ -20,7 +20,7 @@ export default function StackTecnologias({ tecnologias }) {
     return (
       <section>
         <h3>Stack de Tecnologías</h3>
-        <p>No se han registrado tecnologías.</p>
+        <p>No se han registrado tecnologíass.</p>
         <hr />
       </section>
     );
